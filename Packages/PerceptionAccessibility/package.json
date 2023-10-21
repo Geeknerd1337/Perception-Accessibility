@@ -1,0 +1,17 @@
+{
+  "name": "com.teamnetscape.perceptionaccessibility",
+  "displayName": "Perception Accessibility",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "A framework intended to remove boilerplate from Unity.",
+  "keywords": [
+    "unity",
+    "framework",
+    "boilerplate",
+    "scripts"
+  ],
+  "category": "Framework",
+  "author": {
+    "name": "Team Netscape"
+  }
+}

@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.teamnetscape.perceptionaccessibility": {
+      "version": "file:PerceptionAccessibility",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "2.0.4",
       "depth": 0,
